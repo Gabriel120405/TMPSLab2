@@ -2,7 +2,7 @@
 
 ## Topic: Cocktail Shop Management System
 
-## Author: Mțîu Vladlen, FAF-232
+## Author: Moraru Gabriel, FAF-232
 
 ## Introduction
 
